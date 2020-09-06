@@ -5,6 +5,6 @@ def nyc_pigeon_organizer(data)
   array.each do |name|
     
   if pigeon_list.has_key(name)
-    if pigeon_list[name].has_key(
-      )
+    if pigeon_list[name].has_key(key)
+      pigeon_list <<
 end
